@@ -1,0 +1,6 @@
+./venv
+./Videos
+./PoseVideos
+
+__pycache__
+venv/
