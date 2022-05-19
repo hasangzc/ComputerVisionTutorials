@@ -11,3 +11,7 @@ Some Results;
 HandTracking;
 
 <img src="https://user-images.githubusercontent.com/75543671/169319102-e627f0f8-f31b-4c98-9617-4aac057faf3e.gif" width="800" height="400"/>
+
+Face Detection;
+
+![facedetection](https://user-images.githubusercontent.com/75543671/169322617-4f75f54d-02ad-467a-ae70-150abe1c0b7c.png)
