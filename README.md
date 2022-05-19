@@ -7,5 +7,7 @@ OpenCV stands for Open Source Computer Vision. To put it simply, it is a library
 
 Using this repository mediapipe and opencv, solutions such as Hand Tracking, Face Detection, FaceMesh, Pose Estimation were examined.
 Some Results;
+
 HandTracking;
-<img src="https://user-images.githubusercontent.com/75543671/169319102-e627f0f8-f31b-4c98-9617-4aac057faf3e.gif" width="400" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/75543671/169319102-e627f0f8-f31b-4c98-9617-4aac057faf3e.gif" width="800" height="400"/>
