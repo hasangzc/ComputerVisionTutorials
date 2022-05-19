@@ -14,7 +14,7 @@ HandTracking;
 
 
 Pose Estimation;
-![Screencast from 19-05-2022 17_38_58](https://user-images.githubusercontent.com/75543671/169323389-62d30a04-6ee4-4c8b-a544-22a222a148cc.gif)
+<img src="(https://user-images.githubusercontent.com/75543671/169323389-62d30a04-6ee4-4c8b-a544-22a222a148cc.gif" width="800" height="400"/>
 
 Face Detection;
 
