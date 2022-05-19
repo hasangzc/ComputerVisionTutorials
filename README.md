@@ -14,7 +14,9 @@ HandTracking;
 
 
 Pose Estimation;
-<img src="(https://user-images.githubusercontent.com/75543671/169323389-62d30a04-6ee4-4c8b-a544-22a222a148cc.gif" width="800" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/75543671/169323389-62d30a04-6ee4-4c8b-a544-22a222a148cc.gif" width="800" height="400"/>
+
 
 Face Detection;
 
