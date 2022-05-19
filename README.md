@@ -9,3 +9,5 @@ Using this repository mediapipe and opencv, solutions such as Hand Tracking, Fac
 Some Results;
 HandTracking;
 ![Screencast from 19-05-2022 17_25_17](https://user-images.githubusercontent.com/75543671/169319102-e627f0f8-f31b-4c98-9617-4aac057faf3e.gif)
+
+<img src="https://user-images.githubusercontent.com/75543671/169319102-e627f0f8-f31b-4c98-9617-4aac057faf3e.gif" width="250" height="250"/>
